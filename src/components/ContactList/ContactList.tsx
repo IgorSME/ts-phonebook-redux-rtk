@@ -8,7 +8,7 @@ import {
 } from '../../Redux/contactsSlice';
 import { changeFilterValue } from '../../Redux/filterSlice';
 import { toast } from 'react-toastify';
-import { IStoreContacts } from '../../types/appTypes';
+
 
 
 export const ContactList:React.FC = ()=> {
